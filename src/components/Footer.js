@@ -10,11 +10,11 @@ const Footer = () => {
                         </div>
 
                         <div className="getting-started-links flex-div justify-content-btw">
-                            <a href="https://agency.payrail.co" target="_blank" rel="noopener noreferrer" className="gs-link flex-div">
+                            <a href="https://payrail.co/agency" target="_blank" rel="noopener noreferrer" className="gs-link flex-div">
                                 <span>Download Payrail Agency</span>
                                 <img src={require("../images/arrow-right.svg").default} alt="arrow-right" className="right-arr-2" />
                             </a>
-                            <a href="https://business.payrail.co" target="_blank" rel="noopener noreferrer" className="gs-link flex-div">
+                            <a href="https://payrail.co/business" target="_blank" rel="noopener noreferrer" className="gs-link flex-div">
                                 <span>Download Payrail Business</span>
                                 <img src={require("../images/arrow-right.svg").default} alt="arrow-right" className="right-arr-2" />
                             </a>
@@ -34,10 +34,10 @@ const Footer = () => {
                             <div className="footer-block-title">Products</div>
                             <ul className="footer-block-list">
                                 <li>
-                                    <a href="https://agency.payrail.co" target="_blank" rel="noopener noreferrer" className="footer-link">Payrail Agency</a>
+                                    <a href="https://payrail.co/agency" target="_blank" rel="noopener noreferrer" className="footer-link">Payrail Agency</a>
                                 </li>
                                 <li>
-                                    <a href="https://business.payrail.co" target="_blank" rel="noopener noreferrer" className="footer-link">Payrail Business</a>
+                                    <a href="https://payrail.co/business" target="_blank" rel="noopener noreferrer" className="footer-link">Payrail Business</a>
                                 </li>
                             </ul>
                         </div>
