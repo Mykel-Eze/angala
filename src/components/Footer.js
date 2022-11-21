@@ -15,7 +15,7 @@ const Footer = () => {
                                 <img src={require("../images/arrow-right.svg").default} alt="arrow-right" className="right-arr-2" />
                             </a>
                             <a href="https://payrail.co/business" target="_blank" rel="noopener noreferrer" className="gs-link flex-div">
-                                <span>Download Payrail Business</span>
+                                <span>Explore Payrail Business</span>
                                 <img src={require("../images/arrow-right.svg").default} alt="arrow-right" className="right-arr-2" />
                             </a>
                         </div>
